@@ -207,3 +207,9 @@ html, body {
       width: 80px;
     }
 }
+
+@media screen and (max-width: 356px){
+  .banner-text h1 {
+    line-height: 42px;
+  }
+}
