@@ -106,6 +106,10 @@ html, body {
   margin-left: 25px;
 }
 
+.phone p {
+  text-decoration: none;
+}
+
 .banner-contact-info img {
   height: 20px;
   margin: 0;
