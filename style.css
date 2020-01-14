@@ -204,6 +204,9 @@ a[href^="tel"] {
   .banner-contact-info img {
     height: 12px;
   }
+  .nav {
+    height: 115px;
+  }
 }
 
 @media screen and (max-width: 429px){
